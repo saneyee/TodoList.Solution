@@ -1,0 +1,9 @@
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/bin/Debug/netcoreapp1.1/todolist.deps.json
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/bin/Debug/netcoreapp1.1/todolist.runtimeconfig.json
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/bin/Debug/netcoreapp1.1/todolist.runtimeconfig.dev.json
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/bin/Debug/netcoreapp1.1/todolist.dll
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/bin/Debug/netcoreapp1.1/todolist.pdb
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/obj/Debug/netcoreapp1.1/todolist.csproj.CoreCompileInputs.cache
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/obj/Debug/netcoreapp1.1/todolist.AssemblyInfo.cs
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/obj/Debug/netcoreapp1.1/todolist.dll
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist/obj/Debug/netcoreapp1.1/todolist.pdb

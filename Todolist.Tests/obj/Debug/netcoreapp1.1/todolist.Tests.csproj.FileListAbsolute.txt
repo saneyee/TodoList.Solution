@@ -1,0 +1,14 @@
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/todolist.Tests.deps.json
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/todolist.Tests.runtimeconfig.json
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/todolist.Tests.runtimeconfig.dev.json
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/obj/Debug/netcoreapp1.1/todolist.Tests.csproj.CoreCompileInputs.cache
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/obj/Debug/netcoreapp1.1/todolist.Tests.AssemblyInfo.cs
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/todolist.Tests.dll
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/todolist.Tests.pdb
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/todolist.dll
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/bin/Debug/netcoreapp1.1/todolist.pdb
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/obj/Debug/netcoreapp1.1/todolist.Tests.dll
+/Users/saneyee/Desktop/C#/TodoList.Solution/Todolist.Tests/obj/Debug/netcoreapp1.1/todolist.Tests.pdb
